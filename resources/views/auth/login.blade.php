@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Login | Agroxa - Responsive Bootstrap 5 Admin Dashboard</title>
+    <title>Login | Promaps - Production Order Monitoring Apps Admin Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
@@ -109,8 +109,7 @@
                 ©
                 <script>
                     document.write(new Date().getFullYear())
-                </script> Agroxa. Crafted with <i class="mdi mdi-heart text-primary"></i> by
-                Themesbrand
+                </script> Promaps.
             </p>
         </div>
 
